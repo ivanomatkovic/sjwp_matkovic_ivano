@@ -1,0 +1,12 @@
+body {
+  background-color: cadetblue;
+}
+/* //pristup elementu preko  */
+
+#naslov2 {
+  color: blueviolet;
+}
+/* pristup elementu preko clase */
+.naslov3 {
+  color: chartreuse;
+}
